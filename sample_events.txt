@@ -1,0 +1,30 @@
+Event #1
+Event Name: PuQuiz
+Event Date: Thu Oct 12 00:00:00 EEST 2023
+Number of participants: 8
+Main Theme: test
+Register URL: test
+Chat URL: test
+Event Location: test
+Event Description: This game will be about music of 50'.
+
+Event #2
+Event Name: test2
+Event Date: Sun Oct 17 00:00:00 EEST 2021
+Number of participants: 23
+Main Theme: test2
+Register URL: test2
+Chat URL: test2
+Event Location: test2
+Event Description: This game will be about Hitchhiker's Guide to the Galaxy.
+
+Event #3
+Event Name: test3
+Event Date: Sun Oct 10 00:00:00 EEST 2021
+Number of participants: 56
+Main Theme: test2
+Register URL: test2
+Chat URL: test2
+Event Location: test2
+Event Description: This game will be about the history of the world wars.
+
